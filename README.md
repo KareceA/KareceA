@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm El-Karece Asiedu.</h1>
-<h3 align="center">I'm a software engineer with a focus on becoming a full-stack developer. Currently exploring the MERN stack, I'm are eager to learn from fellow engineers, collaborate on projects, and enhance my skills. Additionally, I'm dedicated to building tech communities and currently co-leads Python Accra.</h3>
+<h3 align="center">I'm a software engineer with a focus on becoming a full-stack developer. Currently exploring the MERN stack, I'm are eager to learn from fellow engineers, collaborate on projects, and enhance my skills. Additionally, I'm dedicated to building tech communities and currently co-lead Python Accra.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karecea&label=Profile%20views&color=0e75b6&style=flat" alt="karecea" /> </p>
 
