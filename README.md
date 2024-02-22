@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm El-Karece Asiedu.</h1>
 <h3 align="center">I'm a software engineer with a focus on becoming a full-stack developer. Currently exploring the MERN stack, I'm are eager to learn from fellow engineers, collaborate on projects, and enhance my skills. Additionally, I'm dedicated to building tech communities and currently co-lead Python Accra.</h3>
 
-- 🌱 I’m currently learning **Tailwind & MongoDB**
+- 🌱 I’m currently learning **Tailwind | Nextjs | MongoDB**
 
 - 📝 I regularly write articles on [https://dev.to/karecea](https://dev.to/karecea)
 
