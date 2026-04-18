@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Tailwind | Nextjs | MongoDB**
 
-- 📝 I regularly write articles on [https://dev.to/karecea](https://dev.to/karecea)
+- 📝 I write articles on [https://dev.to/karecea](https://dev.to/karecea)
 
 - 💬 Ask me about **ReactJs | Laravel | API development**
 
 - 📫 How to reach me **https://linktr.ee/KareceA**
 
-- ⚡ Fun fact **I like baking chocolate cupcakes**
+- ⚡ Fun fact **I like baking, swimming and gymming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
